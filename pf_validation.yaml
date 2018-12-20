@@ -1,0 +1,7 @@
+---
+apache:
+  source: 'https://github.com/puppetlabs/puppetlabs-apache'
+  refs:
+    - 'de29064'
+    - 'abcdef1'
+
